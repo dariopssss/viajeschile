@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    
+}
+#footer{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+#logo{
+    padding-top: 0%;
+}
+#icono{
+    height: 80%;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+@media only screen and (max-width: 800px) {
+    #quienes_somos{
+      display: none;
+    }
+  }
